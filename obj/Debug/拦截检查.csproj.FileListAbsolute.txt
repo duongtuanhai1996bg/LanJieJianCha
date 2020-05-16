@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.Properties.Resources.resources
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\bin\Debug\拦截检查.exe.config
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\bin\Debug\拦截检查.exe
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\bin\Debug\拦截检查.pdb
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.Form1.resources
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.exe
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.pdb
+C:\Users\Administrator\source\repos\拦截检查\拦截检查\obj\Debug\拦截检查.csproj.ResolveComReference.cache
